@@ -1,4 +1,4 @@
-@Barbershop_HostAddress = http://localhost:5172
+@Barbershop_HostAddress = http://localhost:5124
 
 GET {{Barbershop_HostAddress}}/weatherforecast/
 Accept: application/json
